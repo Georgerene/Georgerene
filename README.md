@@ -12,23 +12,24 @@ Interested in machine learning, backend development and building practical tools
 
 ### ML pipeline for antimicrobial compound discovery — *Diploma thesis (in progress)*
 Machine learning classification pipeline for identifying small molecules with activity against
-drug-resistant pathogens (ESKAPE group). First stage is intended for publication.
+drug-resistant pathogens (ESKAPE group), using bioactivity data from ChEMBL. First stage is intended for publication.
 - **My role:** design and implementation of the ML classification pipeline
-- **Stack:** Python
+- **Stack:** Python, RDKit, scikit-learn, pandas, NumPy, ChEMBL
 
 ---
 
 ## 🛠️ Projects
 
 ### Natural disasters app — *Software Engineering course, NTUA (team of 5)*
-Application built on real-time disaster data from GDACS, following a full software engineering
-process (requirements, UML modelling, implementation).
+Application combining real-time disaster data from GDACS with geographic data from GISCO,
+following a full software engineering process (requirements, UML modelling, implementation).
 - **My role:** conceptual data model & UML diagrams (phase 1), backend implementation (phase 2)
-- **Stack:** Python, SQL, GDACS API
+- **Stack:** Python, PostgreSQL / Supabase, GDACS API, GISCO API
 
 ### Vector database comparison — *Information Management Systems course, NTUA (team)*
-Benchmarking and comparison of vector databases for similarity search workloads.
-- **Stack:** Python, vector DBs
+Benchmarking and comparison of vector databases for similarity search workloads,
+with each database deployed in Docker containers.
+- **Stack:** Python, Docker, vector DBs
 
 ### Celery — *Android app (in progress)*
 Mobile app designed from wireframes to Figma screens, then implemented in Flutter.
@@ -38,7 +39,7 @@ Mobile app designed from wireframes to Figma screens, then implemented in Flutte
 ---
 
 ## 🧰 Tech
-`Python` · `SQL` · `Flutter` · `Figma` · `Git`
+`Python` · `SQL` · `PostgreSQL` · `Docker` · `scikit-learn` · `RDKit` · `Flutter` · `Figma` · `Git`
 
 ## 📫 Contact
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/grenesis/).
