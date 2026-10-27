@@ -35,16 +35,10 @@ Mobile app designed from wireframes to Figma screens, then implemented in Flutte
 - **My role:** UX design and development
 - **Stack:** Figma, Flutter
 
-### Sports picks agent — *Personal project*
-Automated agent that analyses each day's football and basketball fixtures every morning
-and sends prompt-driven picks. Built entirely on a free stack.
-- **Stack:** Python, LLM APIs
-
 ---
 
 ## 🧰 Tech
 `Python` · `SQL` · `Flutter` · `Figma` · `Git`
 
 ## 📫 Contact
-- LinkedIn: [your-profile](https://www.linkedin.com/in/YOUR-HANDLE)
-- Email: your.email@example.com
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/grenesis/).
